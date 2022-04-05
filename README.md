@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/akrabulislam/akrabulislam/main/name.svg" alt="Muhammad Akrabul Islam" />
+</h1>
 
-<!--
-**akrabulislam/akrabulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Muhmmad, a software developer from Bangladesh.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C++ , Data Structure , Algorithm
+- ⚙️ React, NodeJS , ExpressJS
+- 👁️ SASS, CSS, Styled Components
+- 💽 MySQL, Mongo
+
+## Contact
+- [muhammad](https://www.linkedin.com/in/muhammad-akrabul-islam-b3b36112b/) on Linked In
