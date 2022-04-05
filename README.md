@@ -4,12 +4,12 @@
 
 ## Hey! 👋
 
-I'm Muhmmad, a software developer from Bangladesh.
+I'm Muhmmad, a Software developer from Bangladesh.
 
 ## Skills
 
-- 👨‍💻 TypeScript, JavaScript, C++, Data Structures, Algorithms
-- ⚙️ React, NodeJS, ExpressJS
+- 👨‍💻 TypeScript, JavaScript, Data Structures, Algorithms, C++
+- ⚙️ HTML, React, Redux, NodeJS, ExpressJS
 - 👁️ SASS, CSS, Styled Components, Tailwindcss, Material UI
 - 💽 MySQL, Mongo
 
