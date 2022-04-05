@@ -3,17 +3,23 @@
 </h1>
 
 ## Hey! 👋
+
 I'm Muhmmad, a software developer from Bangladesh.
 
-
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, C++ , Data Structures , Algorithms
-- ⚙️ React, NodeJS , ExpressJS
-- 👁️ SASS, CSS, Styled Components
+
+- 👨‍💻 TypeScript, JavaScript, C++, Data Structures, Algorithms
+- ⚙️ React, NodeJS, ExpressJS
+- 👁️ SASS, CSS, Styled Components, Tailwindcss, Material UI
 - 💽 MySQL, Mongo
 
 ## Online Judges
-- [Solved 202 problems, Global rank 275 among more than 1000+ participants](https://lightoj.com/user/akrabulislam) on LightOJ
+
+- [Solved 827 problems, Global rank 370 among more than 120000+ participants](https://uhunt.onlinejudge.org/id/867156) on LightOJ
+- [Solved 202 problems, Global rank 275 among more than 1000+ participants](https://lightoj.com/user/akrabulislam) on UVA
+- [Participated 8 rated contest and Highest rating 1838](https://www.codechef.com/users/darkdreamofmy1) on Codechef
+- [Solved 698 problems , Participated 84 rated contest and Highest rating 1495](https://codeforces.com/profile/_I_am_back_) on Codeforces
 
 ## Contact
+
 - [Muhammad Akrabul Islam](https://www.linkedin.com/in/muhammad-akrabul-islam-b3b36112b/) on Linked In
