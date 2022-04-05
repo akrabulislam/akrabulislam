@@ -13,7 +13,7 @@ I'm Muhmmad, a software developer from Bangladesh.
 - 💽 MySQL, Mongo
 
 ## Online Judges
-- [LightOJ](https://lightoj.com/user/akrabulislam) on LightOJ
+- [Solved 202 problems, Global rank 275 among more than 1000+ participants](https://lightoj.com/user/akrabulislam) on LightOJ
 
 ## Contact
 - [Muhammad Akrabul Islam](https://www.linkedin.com/in/muhammad-akrabul-islam-b3b36112b/) on Linked In
