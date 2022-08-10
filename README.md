@@ -8,8 +8,8 @@ I'm Muhmmad, a Software Engineer from Bangladesh.
 
 ## Skills
 
-- 👨‍💻 TypeScript, JavaScript, Data Structures, Algorithms, C++
-- ⚙️ HTML, React, Redux, NodeJS, ExpressJS
+- 👨‍💻 TypeScript, JavaScript, Data Structures, Algorithms, C++, Blockchain
+- ⚙️ HTML, React, Redux, NodeJS, ExpressJS, Web3
 - 👁️ SASS, CSS, Styled Components, Tailwindcss, Material UI
 - 💽 MySQL, Mongo
 
