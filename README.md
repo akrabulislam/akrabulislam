@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-I'm Muhmmad, a Software developer from Bangladesh.
+I'm Muhmmad, a Software Enginner from Bangladesh.
 
 ## Skills
 
