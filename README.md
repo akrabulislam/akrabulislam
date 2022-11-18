@@ -39,6 +39,3 @@ I'm Muhmmad, a Software Engineer from Bangladesh.
 - [Participated 8 rated contest and Highest rating 1838](https://www.codechef.com/users/darkdreamofmy1) on Codechef
 - [Solved 698 problems , Participated 84 rated contest and Highest rating 1495](https://codeforces.com/profile/_I_am_back_) on Codeforces
 
-## Contact
-
-- [Muhammad Akrabul Islam](https://www.linkedin.com/in/muhammad-akrabul-islam-b3b36112b/) on Linked In
