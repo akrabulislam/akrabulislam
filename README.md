@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/akrabulislam/akrabulislam/main/name.svg" alt="Akrabul Islam" />
+  <img src="https://raw.githubusercontent.com/akrabulislam/akrabulislam/main/name.svg" alt="Muhammad Akrabul Islam" />
 </h1>
 
 ## Hey! 👋
