@@ -14,7 +14,6 @@
   <samp>🚀 Here are the concepts and technologies I'm familiar with:</samp>
 </p>
 
-
 ## 🚀 Core Concepts
 
 <p align="center">
