@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **akrabulislam1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akrabul-islam/overlay/1635539177111/single-media-viewer/?profileId=ACoAAB_pBx8BkKSaSH0UvN2nof9evtCNZe8Pijo](https://www.linkedin.com/in/akrabul-islam/overlay/1635539177111/single-media-viewer/?profileId=ACoAAB_pBx8BkKSaSH0UvN2nof9evtCNZe8Pijo)
-
 - ⚡ Fun fact **I've assisted six individuals in achieving financial success through my entrepreneurial ventures.**
 
 <h3 align="left">Connect with me:</h3>
