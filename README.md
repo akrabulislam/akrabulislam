@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akrabul Islam a Software Engineer hailing from Bangladesh.</h1>
 <h3 align="center">Blockchain & AI Engineer at LiquidX Studio, shaping the future of technology. Co-founder of Somykoron, where we craft AI-powered web applications. Turning visionary ideas into cutting-edge reality.</h3>
 
-<p align="center">
-  <samp>🌟 Achievements in Programming Contests:</samp>
+<p align="left">
+  <h4>🌟 Achievements in Programming Contests:</h4>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://uhunt.onlinejudge.org/id/867156"><samp>Solved 827 problems, Global rank 370 among more than 120000+ participants</samp></a><br />
   <a href="https://lightoj.com/user/akrabulislam"><samp>Solved 202 problems, Global rank 275 among more than 1000+ participants</samp></a><br />
   <a href="https://www.codechef.com/users/darkdreamofmy1"><samp>Participated in 8 rated contests, Highest rating 1838</samp></a><br />
