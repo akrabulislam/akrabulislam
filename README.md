@@ -2,60 +2,52 @@
   <img src="https://raw.githubusercontent.com/akrabulislam/akrabulislam/main/name.svg" alt="Muhammad Akrabul Islam" />
 </h1>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/akrabulislam/akrabulislam/main/name.svg" alt="Muhammad Akrabul Islam" />
+</h1>
+
 <p align="center">
   <samp>Hey! 👋 I'm Muhammad, a Software Engineer from Bangladesh.</samp>
 </p>
 
-<p align="center">
-  <samp>🚀 Here are some of the technologies I love to code with:</samp>
-</p>
+## Core Concepts
 
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Prompt Engineering" src="https://img.shields.io/badge/-Prompt%20Engineering-FF6E21?style=for-the-badge" />
-  <img alt="Langchain" src="https://img.shields.io/badge/-Langchain-800080?style=for-the-badge" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-008080?style=for-the-badge" />
-</p>
+<img alt="Problem Solving" src="https://img.shields.io/badge/-Problem%20Solving-FF4500?style=for-the-badge" />
+<img alt="Data Structure & Algorithm" src="https://img.shields.io/badge/-Data%20Structure%20%26%20Algorithm-008000?style=for-the-badge" />
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/-Prompt%20Engineering-FF6E21?style=for-the-badge" />
+<img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-9932CC?style=for-the-badge" />
+<img alt="Generative AI/ChatGPT" src="https://img.shields.io/badge/-Generative%20AI%2FChatGPT-008080?style=for-the-badge" />
 
-<p align="center">
-  <samp>🛠️ Skills:</samp>
-</p>
+## Programming Languages
 
-<p align="center">
-  <samp>👨‍💻 TypeScript, JavaScript, Data Structures, Algorithms, C++, Blockchain</samp>
-</p>
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge" />
 
-<p align="center">
-  <samp>⚙️ HTML, React, Redux, NodeJS, ExpressJS, Web3</samp>
-</p>
+## Frontend
 
-<p align="center">
-  <samp>👁️ SASS, CSS, Styled Components, Tailwindcss, Material UI</samp>
-</p>
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge" />
+<img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge" />
+<img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge" />
 
-<p align="center">
-  <samp>💽 MySQL, MongoDB</samp>
-</p>
+## Backend
 
-<p align="center">
-  <samp>🌟 Online Judges:</samp>
-</p>
+<img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge" />
+<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge" />
+
+## Database
+
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-FFD700?style=for-the-badge" />
+<img alt="Postgres" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge" />
+
 
 <p align="center">
   <a href="https://uhunt.onlinejudge.org/id/867156"><samp>Solved 827 problems, Global rank 370 among more than 120000+ participants</samp></a>
