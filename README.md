@@ -64,5 +64,3 @@
 - [Solved 698 problems, Participated in 84 rated contests, Highest rating 1495](https://codeforces.com/profile/_I_am_back_) on Codeforces
 
 ---
-
-Feel free to customize and improve this layout further according to your preferences. You can add more sections or update existing ones to showcase your work, projects, or any other information you'd like to highlight.
